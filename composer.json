@@ -1,5 +1,5 @@
 {
-    "name": "nincekon/theseeker225.github.io",
+    "name": "nincekon/nyz-webapp",
     "autoload": {
         "psr-4": {
             "Router\\": "routes/", 
